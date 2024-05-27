@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/figures.dir/main.cpp.o CMakeFiles/figures.dir/circle.cpp.o CMakeFiles/figures.dir/polygon.cpp.o CMakeFiles/figures.dir/square.cpp.o CMakeFiles/figures.dir/triangle.cpp.o -o figures 

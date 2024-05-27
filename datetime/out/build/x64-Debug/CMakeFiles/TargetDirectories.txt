@@ -1,0 +1,3 @@
+C:/Users/ze_us/Documents/VSProjects/OOP_2_sem/anya/datetime/out/build/x64-Debug/CMakeFiles/datetime.dir
+C:/Users/ze_us/Documents/VSProjects/OOP_2_sem/anya/datetime/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ze_us/Documents/VSProjects/OOP_2_sem/anya/datetime/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/anya/2 term/oop2/triangles/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/triangles.dir/main.cpp.o -c \"/home/anya/2 term/oop2/triangles/main.cpp\"",
+  "file": "/home/anya/2 term/oop2/triangles/main.cpp"
+},
+{
+  "directory": "/home/anya/2 term/oop2/triangles/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/triangles.dir/Geometry/geometry.cpp.o -c \"/home/anya/2 term/oop2/triangles/Geometry/geometry.cpp\"",
+  "file": "/home/anya/2 term/oop2/triangles/Geometry/geometry.cpp"
+},
+{
+  "directory": "/home/anya/2 term/oop2/triangles/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/triangles.dir/Searching/search.cpp.o -c \"/home/anya/2 term/oop2/triangles/Searching/search.cpp\"",
+  "file": "/home/anya/2 term/oop2/triangles/Searching/search.cpp"
+},
+{
+  "directory": "/home/anya/2 term/oop2/triangles/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/triangles.dir/FileProcessing/file.cpp.o -c \"/home/anya/2 term/oop2/triangles/FileProcessing/file.cpp\"",
+  "file": "/home/anya/2 term/oop2/triangles/FileProcessing/file.cpp"
+}
+]

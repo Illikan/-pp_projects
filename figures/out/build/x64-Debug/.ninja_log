@@ -1,0 +1,7 @@
+# ninja log v5
+177	6861	7385224650690093	CMakeFiles/figures.dir/triangle.cpp.obj	88eb02f5e94da42b
+39	6877	7385224650787537	CMakeFiles/figures.dir/main.cpp.obj	94a83b84acc92a66
+166	6888	7385224650755903	CMakeFiles/figures.dir/square.cpp.obj	2c01b45a7c912884
+122	6894	7385224650983334	CMakeFiles/figures.dir/polygon.cpp.obj	21d7c017bbc5d0dc
+16	1452	7385225595480690	CMakeFiles/figures.dir/circle.cpp.obj	bde7e2d1bdfe0736
+1454	2625	7385225606433453	figures.exe	8dfd83beada4d355

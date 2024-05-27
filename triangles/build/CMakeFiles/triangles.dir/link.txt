@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/triangles.dir/main.cpp.o CMakeFiles/triangles.dir/Geometry/geometry.cpp.o CMakeFiles/triangles.dir/Searching/search.cpp.o CMakeFiles/triangles.dir/FileProcessing/file.cpp.o -o triangles 

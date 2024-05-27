@@ -1,0 +1,10 @@
+# ninja log v5
+33	3752	7385204978175102	CMakeFiles/triangles.dir/search.cpp.obj	dd3a7aa1524d808d
+8	1983	7385207099233873	CMakeFiles/triangles.dir/main.cpp.obj	669a771a70c439fe
+17	4122	7385204980075995	CMakeFiles/triangles.dir/geometry.cpp.obj	e78cfb954173007a
+46	4264	7385204983105971	CMakeFiles/triangles.dir/file.cpp.obj	22d68f63feb3d10d
+1984	2613	7385207104082749	triangles.exe	659a78670f091b0c
+14	2179	7385210527106693	CMakeFiles/triangles.dir/main.cpp.obj	669a771a70c439fe
+2181	3261	7385210536555765	triangles.exe	659a78670f091b0c
+47	1853	7385210785906459	CMakeFiles/triangles.dir/search.cpp.obj	dd3a7aa1524d808d
+1855	2435	7385210790431446	triangles.exe	659a78670f091b0c

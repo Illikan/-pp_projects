@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/raional.dir/main.cpp.o CMakeFiles/raional.dir/rational.cpp.o -o raional 

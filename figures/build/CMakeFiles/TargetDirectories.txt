@@ -1,0 +1,3 @@
+/home/anya/2 term/oop2/figures/build/CMakeFiles/figures.dir
+/home/anya/2 term/oop2/figures/build/CMakeFiles/edit_cache.dir
+/home/anya/2 term/oop2/figures/build/CMakeFiles/rebuild_cache.dir

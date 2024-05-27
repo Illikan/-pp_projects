@@ -1,0 +1,3 @@
+/home/anya/2 term/oop2/rational/build/CMakeFiles/raional.dir
+/home/anya/2 term/oop2/rational/build/CMakeFiles/edit_cache.dir
+/home/anya/2 term/oop2/rational/build/CMakeFiles/rebuild_cache.dir
